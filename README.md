@@ -1,3 +1,4 @@
-# My Awesome Book
+# CoMake Help Guide
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+CoMake is a 3D collaborative web app.
+
